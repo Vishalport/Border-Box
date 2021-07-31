@@ -1,0 +1,27 @@
+p {
+	background: gray;
+	border-color: red;
+	border: solid 30px;
+	border: 30px 150px;
+}
+.abc {
+	height: 50px;
+	width: 300px;
+	padding: 40px 50px;
+}
+#abc {
+	text-align: center;
+	font-size: 50px;
+	margin: 30px 50px;
+}
+.def {
+	height: 100px;
+	width: 600px;
+	padding: 60px 80px;
+
+}
+#def {
+	text-align: center;
+	font-size: 60px;
+	margin: 50px 70px;
+}
